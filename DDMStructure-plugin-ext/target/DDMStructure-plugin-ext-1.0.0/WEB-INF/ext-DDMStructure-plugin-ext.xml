@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<ext-info>
+	<servlet-context-name>DDMStructure-plugin-ext</servlet-context-name>
+	<files>
+		<file>ext-impl/classes/com/liferay/portal/deploy/dependencies/ext-DDMStructure-plugin-ext-util-bridges.jar</file>
+		<file>ext-impl/classes/com/liferay/portal/deploy/dependencies/ext-DDMStructure-plugin-ext-util-java.jar</file>
+		<file>ext-impl/classes/com/liferay/portal/deploy/dependencies/ext-DDMStructure-plugin-ext-util-taglib.jar</file>
+		<file>ext-impl/classes/com/liferay/portlet/dynamicdatamapping/model/impl/DDMStructureImpl.class</file>
+		<file>ext-web/docroot/WEB-INF/liferay-portlet-ext.xml</file>
+		<file>ext-web/docroot/WEB-INF/portlet-ext.xml</file>
+		<file>ext-web/docroot/WEB-INF/remoting-servlet-ext.xml</file>
+		<file>ext-web/docroot/WEB-INF/struts-config-ext.xml</file>
+		<file>ext-web/docroot/WEB-INF/tiles-defs-ext.xml</file>
+		<file>ext-web/docroot/WEB-INF/web.xml</file>
+	</files>
+</ext-info>
